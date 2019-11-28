@@ -10,6 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            // Tämä on Terve maailma -ohjelma.
             Console.WriteLine("Hello world");
         }
     }
